@@ -1,0 +1,290 @@
+# Copyright (C) 2016 Social Media by Lazy Cat Themes
+# This file is distributed under the same license as the Social Media by Lazy Cat Themes package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Social Media by Lazy Cat Themes 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/Social Media "
+"PluginTranslate\n"
+"POT-Creation-Date: 2016-05-17 10:23:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: lib/class-lct-social-media-requires.php:48
+msgid "This Social Media Plugin requires the following plugin: %1$s."
+msgid_plural "This Social Media Plugin requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-lct-social-media-requires.php:52
+msgid "This Social Media Plugin recommends the following plugin: %1$s."
+msgid_plural "This Social Media Plugin recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/class-lct-social-media-requires.php:56
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with the Social Media Plugin: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this Social Media Plugin: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. #-#-#-#-#  lct-social-media.pot (Social Media by Lazy Cat Themes 1.0.0)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: lib/class-lct-social-stat-options.php:34
+msgid "Social Media by Lazy Cat Themes"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:42
+#: lib/class-lct-social-stat-options.php:43
+msgid "Social Media"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:117
+msgid "Options"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:124
+msgid "Display Order"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:132
+msgid "Social Network Order"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:143
+msgid "Social Network Setup"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:170
+#: lib/class-lct-social-stat-options.php:191
+msgid "Facebook"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:180
+msgid "Facebook Page Name"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:187
+msgid "Facebook Page ID"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:206
+#: lib/class-lct-social-stat-options.php:248
+msgid "Twitter"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:216
+msgid "Twitter Name"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:223
+msgid "Consumer Key (API Key)"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:230
+msgid "Consumer Secret (API Secret)"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:237
+msgid "Access Token"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:244
+msgid "Access Token Secret"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:253
+msgid "Share Window Height"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:271
+#: lib/class-lct-social-stat-options.php:291
+msgid "Google+"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:281
+msgid "Google+ ID"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:287
+msgid "Google API key"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:307
+#: lib/class-lct-social-stat-options.php:328
+msgid "Instagram"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:317
+msgid "Instagram Name"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:324
+msgid "Instagram Access Token"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:343
+#: lib/class-lct-social-stat-options.php:356
+msgid "Pinterest"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:353
+msgid "Pinterest Username"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:371
+#: lib/class-lct-social-stat-options.php:391
+msgid "YouTube"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:381
+msgid "Channel ID"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:387
+msgid "YouTube API Key"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:405
+#: lib/class-lct-social-stat-options.php:425
+msgid "Email"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:414
+msgid "Body Message"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:415
+msgid "Check out this cool post! %s"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:421
+msgid "MailTo Address"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:450
+msgid "Bloglovin' Blog Name"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:453
+msgid "Bloglovin'"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:478
+msgid "StumbleUpon Username"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:482
+msgid "StumbleUpon"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:498
+msgid "Share Window Width"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:513
+msgid "Is Enabled"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:527
+msgid "Is Simple Mode"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:530
+msgid ""
+"Simple mode requires fewer configuration options to fill in but does not "
+"give you a followers count"
+msgstr ""
+
+#: lib/class-lct-social-stat-options.php:547
+msgid "Tooltip"
+msgstr ""
+
+#: lib/socialstats/class-lct-follower-counter.php:52
+msgid ". Follower counts have not been updated."
+msgstr ""
+
+#: lib/socialstats/class-lct-social-stat.php:148
+#: lib/socialstats/networks/class-lct-email-social-stat.php:39
+#: lib/socialstats/networks/class-lct-pinterest-social-stat.php:38
+msgid "Share on %s"
+msgstr ""
+
+#: lib/socialstats/class-lct-social-stat.php:168
+msgid "%s URL '%s' invalid, please check your %s configuration settings"
+msgstr ""
+
+#: lib/socialstats/networks/class-lct-twitter-social-stat.php:41
+msgid ""
+"Error obtaining Twitter details, please check the settings and try again"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:23
+msgid "LCT - Social Media Networking"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:24
+msgid "Lazy Cat Themes widget to add social media links to your site."
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:98
+msgid "Title:"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:105
+msgid "Alignment:"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:109
+msgid "Left"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:111
+msgid "Center"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:113
+msgid "Right"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:118
+msgid "Size:"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:122
+msgid "Small"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:124
+msgid "Large"
+msgstr ""
+
+#: lib/widgets/class-lct-social-media-widget.php:132
+msgid "Show Follower Count"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://plugins.lazycatthemes.com/social-media"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This is a plugin that supports sharing of social media for the 8 most common "
+"social media providers. It also provides an optional follower count display, "
+"a widget, a shortcode and an API for displaying social network information."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Lazy Cat Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://lazycatthemes.com"
+msgstr ""

@@ -1,0 +1,81 @@
+.social-header-bar
+{
+    display:block;
+    padding-top:6px;
+}
+
+.social-header-bar ul
+{
+    margin:0px;
+}
+
+.social-header-bar-right
+{
+    text-align: right;
+}
+
+.social-header-bar-left
+{
+    text-align: left;
+}
+
+.social-header-bar-center
+{
+    text-align: center;
+}
+
+.large-social-media-banner,
+.small-social-media-banner
+{
+    display: inline-block;
+}
+
+.large-social-media-banner > ul,
+.small-social-media-banner > ul
+{
+    display:table;
+    margin:auto;
+}
+
+.large-social-media-banner li,
+.small-social-media-banner li
+{
+    display:table-cell;
+}
+
+.small-social-media-banner li a
+{
+    width:25px;
+    height:14px;
+    text-align: center;
+    display: block;
+    border: none;
+}
+
+.large-social-media-banner li {
+    vertical-align: top;
+}
+
+.large-social-media-banner li a
+{
+    width:40px;
+    font-size:20px;
+    text-align: center;
+    display: block;
+    border: none;
+}
+
+.large-social-media-banner li div
+{
+    padding-top:1px;
+    font-size:11px;
+    text-align: center;
+}
+
+.large-social-media-banner li:last-child div {
+    margin-right:0px;
+}
+
+h4 {
+    text-align: center;
+}
